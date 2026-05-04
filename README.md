@@ -4,13 +4,13 @@
 **Hospital Bed Availability Decision System**
 
 ## Group Members
-| Name || Role |
-|------||------|
-| [Dilshod Fayzullayev ] | Logic Designer |
-| [Ibroximov Axmadjon] | CircuitVerse Designer |
-| [Ibrohim Saidov] | Python Developer |
-| [Timur Suyunov] | Documentation Lead |
-| [Temur Yangibaev] | Presenter |
+| Name | Student ID | Role |
+|------|-----------|------|
+| [DILSHOD FAYZULLAYEV] | [250887] | Logic Designer |
+| [IBROXIMOV AXMAD] | [250887] | CircuitVerse Designer |
+| [IBROHIM SAIDOV] | [250887] | Python Developer |
+| [TIMUR SUYUNOV] | [250887] | Documentation Lead / Presenter |
+| [TEMUR YANGIBAEV] | [250887] | Documentation Lead / Presenter |
 ## Course
 **EEE120 – Digital Design Fundamentals**
 
