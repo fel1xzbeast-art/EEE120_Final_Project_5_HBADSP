@@ -98,7 +98,7 @@ The circuit uses **AND, OR, NOT** gates:
 ---
 
 ## CircuitVerse Link
-> 🔗 [Add your CircuitVerse link here after building the circuit]
+> 🔗 https://circuitverse.org/users/426743/projects/hospital-f7023259-0d82-4910-a167-e43c10679932
 
 ### Circuit Design Notes (for CircuitVerse builder)
 Build the following subcircuits:
@@ -150,7 +150,7 @@ reject   = not admit and not waitlist
 
 ```bash
 # Clone the repo
-git clone https://github.com/[your-group]/EEE120_Final_Project.git
+git clone https: https://github.com/fel1xzbeast-art/EEE120_Final_Project_5_HBADSP
 cd EEE120_Final_Project
 
 # Run the program
