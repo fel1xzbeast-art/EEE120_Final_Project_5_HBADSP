@@ -5,7 +5,7 @@
 
 ## Group Members
 | Name | | Role |
-|------|-----------|------|
+|------| |------|
 | [Dilshod Fayzullayev ] | Logic Designer |
 | [Ibroximov Axmadjon] | CircuitVerse Designer |
 | [Ibrohim Saidov] | Python Developer |
