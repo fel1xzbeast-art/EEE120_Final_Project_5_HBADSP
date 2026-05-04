@@ -4,8 +4,8 @@
 **Hospital Bed Availability Decision System**
 
 ## Group Members
-| Name | | Role |
-|------| |------|
+| Name || Role |
+|------||------|
 | [Dilshod Fayzullayev ] | Logic Designer |
 | [Ibroximov Axmadjon] | CircuitVerse Designer |
 | [Ibrohim Saidov] | Python Developer |
