@@ -9,8 +9,8 @@
 | [DILSHOD FAYZULLAYEV] | [250887] | Logic Designer |
 | [IBROXIMOV AXMAD] | [250887] | CircuitVerse Designer |
 | [IBROHIM SAIDOV] | [250887] | Python Developer |
-| [TIMUR SUYUNOV] | [250887] | Documentation Lead / Presenter |
-| [TEMUR YANGIBAEV] | [250887] | Documentation Lead / Presenter |
+| [TIMUR SUYUNOV] | [250887] | Documentation Lead |
+| [TEMUR YANGIBAEV] | [250887] | Presenter |
 ## Course
 **EEE120 – Digital Design Fundamentals**
 
