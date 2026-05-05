@@ -6,11 +6,11 @@
 ## Group Members
 | Name | Student ID | Role |
 |------|-----------|------|
-| [DILSHOD FAYZULLAYEV] | [250887] | Logic Designer |
-| [IBROXIMOV AXMAD] | [250887] | CircuitVerse Designer |
-| [IBROHIM SAIDOV] | [250887] | Python Developer |
-| [TIMUR SUYUNOV] | [250887] | Documentation Lead |
-| [TEMUR YANGIBAEV] | [250887] | Presenter |
+| [DILSHOD FAYZULLAYEV] | [b250699] | Logic Designer |
+| [IBROXIMOV AXMAD] | [b250887] | CircuitVerse Designer |
+| [IBROHIM SAIDOV] | [b251158] | Python Developer |
+| [TIMUR SUYUNOV] | [b250962] | Documentation Lead |
+| [TEMUR YANGIBAEV] | [b250145] | Presenter |
 ## Course
 **EEE120 – Digital Design Fundamentals**
 
